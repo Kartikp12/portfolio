@@ -8,8 +8,8 @@ const About = () => {
 
       <div className="mb-10">
         <p className="text-lg text-gray-700 leading-relaxed">
-          <span className="text-2xl font-bold text-blue-600">Hello, I'm Kartik</span> <br />
-          — a recent B.Tech graduate in Computer Science (2025) and a passionate Web Developer specializing in <span className="font-semibold">React.js</span> and <span className="font-semibold">Next.js</span>. I focus on building responsive, high-performance web applications and continuously strive to expand my skill set. I'm particularly enthusiastic about emerging technologies such as <span className="font-semibold">Blockchain</span>, <span className="font-semibold">Artificial Intelligence</span>, and more — always eager to learn, build, and grow in the tech space.
+          <span className="text-2xl font-bold text-blue-600">Hello, I am Kartik</span> <br />
+          — a recent B.Tech graduate in Computer Science (2025) and a passionate Web Developer specializing in <span className="font-semibold">React.js</span> and <span className="font-semibold">Next.js</span>. I focus on building responsive, high-performance web applications and continuously strive to expand my skill set. I am particularly enthusiastic about emerging technologies such as <span className="font-semibold">Blockchain</span>, <span className="font-semibold">Artificial Intelligence</span>, and more — always eager to learn, build, and grow in the tech space.
         </p>
       </div>
 
